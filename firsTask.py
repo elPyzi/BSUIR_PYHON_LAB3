@@ -1,5 +1,3 @@
-
-
 with open("F1.txt", "w") as f1:
     while True:
         line = input("Введите строку данных (пустая строка для завершения): ")
